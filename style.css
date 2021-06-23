@@ -18,18 +18,10 @@
     padding: 10px 10px;
 }
 
-.esquerda {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
 .hamburger {
     height: 17px;
     margin-right: 15px;
 }
-
-.ven-Games {}
 
 .signup-btn {
     border: solid 2px #ffffff;
@@ -94,7 +86,7 @@
 }
 
 .zig-zag {
-    margin: 20px 0 5px 20px;
+    margin: 30px 0 25px 20px;
 }
 
 .w-v {
@@ -132,33 +124,6 @@
 }
 
 .setas-text {
-    margin: -65px 20px 20px 100px;
-    font: 400 20px 'oswald';
-}
-
-.seta-img1 {
-    margin: 15px 20px 20px 20px;
-}
-
-.setas-text1 {
-    margin: -65px 20px 20px 100px;
-    font: 400 20px 'oswald';
-}
-
-.seta-img2 {
-    margin: 15px 20px 20px 20px;
-}
-
-.setas-text2 {
-    margin: -65px 20px 20px 100px;
-    font: 400 20px 'oswald';
-}
-
-.seta-img3 {
-    margin: 15px 20px 20px 20px;
-}
-
-.setas-text3 {
     margin: -65px 20px 20px 100px;
     font: 400 20px 'oswald';
 }
@@ -232,10 +197,6 @@
     margin: 20px 10px 5px 20px;
 }
 
-.zigzag2 {
-    margin: 20px 0 10px 0px;
-}
-
 .text-play {
     font: 400 40px 'oswald';
     margin-bottom: 10px;
@@ -260,10 +221,6 @@
     margin-top: -44px;
 }
 
-.zigzag3 {
-    margin: 50px 0px 15px 20px;
-}
-
 .join-header {
     font: 400 40px 'Bitter';
     line-height: 45px;
@@ -282,10 +239,6 @@
     color: #FFFFFF;
 }
 
-.zigzag4 {
-    margin: 50px 0px 15px 20px;
-}
-
 .text-learn {
     font: 400 39px 'Bitter';
     line-height: 48px;
@@ -295,12 +248,11 @@
     color: #FFFFFF;
 }
 
-.star-one {
+.stars {
     margin-left: 20px;
-    margin-right: 5px;
 }
 
-.stars {
+.stars img {
     margin-right: 5px;
 }
 
@@ -332,10 +284,6 @@
     margin: -15px 20px 20px 110px;
     font: 700 18px 'Bitter';
     color: #A19AC6;
-}
-
-.zigzag5 {
-    margin: 60px 0px 20px 20px;
 }
 
 .organize {
