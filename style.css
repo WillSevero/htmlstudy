@@ -1,0 +1,406 @@
+* {
+    /* border: solid 1px red; */
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-and-title {
+    background: linear-gradient(180deg, #07008A 0%, rgba(7, 0, 138, 0.0001) 100%);
+    width: 100vw;
+}
+
+.homeoffice {
+    background: #07008A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.esquerda {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hamburger {
+    height: 17px;
+    margin-right: 15px;
+}
+
+.ven-Games {}
+
+.signup-btn {
+    border: solid 2px #ffffff;
+    background: transparent;
+    border-radius: 8px;
+    color: #ffffff;
+    width: 70px;
+    height: 30px;
+    font: 400 11px 'Bitter';
+}
+
+.join-room {
+    background: #ffffff;
+    border-radius: 8px;
+    color: #0c0606;
+    width: 82px;
+    height: 31px;
+    font: 400 11px 'Bitter';
+}
+
+.title {
+    background: #07008A;
+    color: #ffffff;
+    font-family: 'Bitter', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    margin: 20px auto;
+    text-align: center;
+    height: 50px;
+    font-size: 34px;
+}
+
+.sub-title {
+    margin: 10px auto;
+    text-align: center;
+    width: 80%;
+    height: 50px;
+}
+
+.botao-get {
+    background: #2FB586;
+    color: #ffffff;
+    width: 280px;
+    height: 70px;
+    border-radius: 12px;
+    margin-top: 5px;
+    font: 700 20px 'Bitter';
+}
+
+.homemNaMesa {
+    width: 100vw;
+    margin-top: 35px;
+}
+
+#container {
+    background-color: #f8f6f6;
+}
+
+.zig-zag {
+    margin: 20px 0 5px 20px;
+}
+
+.w-v {
+    height: 50px;
+    margin: 5px 0 15px 20px;
+    font: 400 34px 'Bitter';
+}
+
+.text {
+    font-family: 'Bitter', serif;
+    margin: 20px 0 0 20px;
+    line-height: 29px;
+}
+
+.placa-image {
+    width: 365px;
+    height: 580px;
+    margin-top: -85px;
+    margin-bottom: -85px;
+    background-image: url("imagens/mobile/group42p.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 165px;
+}
+
+.superiorplaca {
+    font: 400 24px 'oswald';
+    text-align: center;
+    margin: 15px 20px 20px 20px;
+}
+
+.seta-img {
+    margin: 15px 20px 20px 20px;
+    align-items: center;
+}
+
+.setas-text {
+    margin: -65px 20px 20px 100px;
+    font: 400 20px 'oswald';
+}
+
+.seta-img1 {
+    margin: 15px 20px 20px 20px;
+}
+
+.setas-text1 {
+    margin: -65px 20px 20px 100px;
+    font: 400 20px 'oswald';
+}
+
+.seta-img2 {
+    margin: 15px 20px 20px 20px;
+}
+
+.setas-text2 {
+    margin: -65px 20px 20px 100px;
+    font: 400 20px 'oswald';
+}
+
+.seta-img3 {
+    margin: 15px 20px 20px 20px;
+}
+
+.setas-text3 {
+    margin: -65px 20px 20px 100px;
+    font: 400 20px 'oswald';
+}
+
+.text-game {
+    font: 400 20px 'oswald';
+}
+
+.ourGames {
+    background: #07008A;
+    margin-top: 85px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.dourado-lat {
+    color: #FFE499;
+    width: 340px;
+    margin: -45px 0px 30px 0px;
+}
+
+.text-game {
+    color: #FFE499;
+    font: 400 20px 'oswald';
+    margin: 20px 20px 30px 20px;
+}
+
+.carta-pegasus {
+    height: 309px;
+    width: 305px;
+    margin-top: 10px;
+    /* left: 55px; */
+    /* margin: auto; */
+}
+
+.out-l {
+    margin-top: 30px;
+    text-shadow: 10px 10px 20px #088304;
+}
+
+.text-oug {
+    font: 400 20px 'oswald';
+    color: #FFFFFF;
+    text-align: center;
+    margin: 40px 20px 30px 20px;
+}
+
+.button-play {
+    background: #2FB586;
+    color: #ffffff;
+    width: 280px;
+    height: 70px;
+    border-radius: 12px;
+    margin-top: 30px;
+    font: 700 20px 'Bitter';
+    margin-bottom: 30px;
+}
+
+.main-foguete {
+    background: #FAFAFA;
+    padding-bottom: 40px;
+}
+
+.foguete {
+    width: 100vw;
+}
+
+.contact {
+    margin: 20px 10px 5px 20px;
+}
+
+.zigzag2 {
+    margin: 20px 0 10px 0px;
+}
+
+.text-play {
+    font: 400 40px 'oswald';
+    margin-bottom: 10px;
+    line-height: 45px;
+}
+
+.text-start {
+    font: 400 23px 'oswald';
+    margin-top: 30px;
+    line-height: 32px;
+    margin-bottom: 10px;
+}
+
+.celular {
+    width: 100vw;
+    margin-bottom: -170px;
+    background: transparent;
+}
+
+.purple {
+    background: linear-gradient(323.33deg, #2E1192 19%, #7458FD 89.68%);
+    margin-top: -44px;
+}
+
+.zigzag3 {
+    margin: 50px 0px 15px 20px;
+}
+
+.join-header {
+    font: 400 40px 'Bitter';
+    line-height: 45px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+
+.join-text {
+    font: 400 25px 'oswald';
+    line-height: 35px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+
+.zigzag4 {
+    margin: 50px 0px 15px 20px;
+}
+
+.text-learn {
+    font: 400 39px 'Bitter';
+    line-height: 48px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+
+.star-one {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+.stars {
+    margin-right: 5px;
+}
+
+.testemunho {
+    padding-bottom: 30px;
+}
+
+.text-testemunho {
+    font: 400 16px 'oswald';
+    line-height: 35px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    color: #FFFFFF;
+}
+
+.foto-testem {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.name-testem {
+    margin: -65px 20px 20px 110px;
+    font: 700 18px 'Bitter';
+    color: #FFE499;
+}
+
+.tilt-name {
+    margin: -15px 20px 20px 110px;
+    font: 700 18px 'Bitter';
+    color: #A19AC6;
+}
+
+.zigzag5 {
+    margin: 60px 0px 20px 20px;
+}
+
+.organize {
+    background: #FAFAFA;
+}
+
+.team-bild {
+    font: 400 35px 'Bitter';
+    line-height: 48px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.your-team {
+    font: 400 18px 'oswald';
+    line-height: 48px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.play-gam {
+    background: #2FB586;
+    color: #ffffff;
+    width: 280px;
+    height: 70px;
+    border-radius: 12px;
+    margin-top: -12px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+    font: 700 20px 'Bitter';
+}
+
+footer {
+    background: #FAFAFA;
+}
+
+.rodape {
+    border-top: 2px solid #303744;
+    /* background: #FAFAFA; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90vw;
+    margin: auto;
+}
+
+.contact {
+    font: 400 13px 'Roboto Condensed';
+    margin-bottom: 35px;
+    margin-left: 20px;
+    background: transparent;
+}
+
+.term {
+    font: 400 13px 'Roboto Condensed';
+    margin-bottom: 15px;
+    background: transparent;
+}
+
+.levfed {
+    font: 400 13px 'Roboto Condensed';
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-left: 13px;
+    background: transparent;
+}
